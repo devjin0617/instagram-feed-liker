@@ -1,0 +1,22 @@
+{
+  "name": "instagram-feed-liker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devjin0617/instagram-feed-liker.git"
+  },
+  "author": "devjin0617",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devjin0617/instagram-feed-liker/issues"
+  },
+  "homepage": "https://github.com/devjin0617/instagram-feed-liker#readme",
+  "dependencies": {
+    "instagram-nodejs-without-api": "^1.2.0"
+  }
+}
